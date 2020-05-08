@@ -13,6 +13,7 @@ You can follow along with the code <a href="https://github.com/theqoobee/stekki"
 #### Step 1 - getting the right stuff
 
 To being, you're going to need to get the **theme** we're using. Run this command in your preferred terminal.
+
 `git clone https://github.com/BlackrockDigital/startbootstrap-agency stekki/`
 
 This command will copy all the files you need and put them into a folder called **stekki**, which is the name of our project.
@@ -31,7 +32,7 @@ Then, all you need to do is run this command and you should have everything more
 
 You should have more or less everything you need set up now, so let's get on with the "development".
 
-First of all, run the command `gulp`. This will compile the sass into css, and will start our website. It should automatically open it in your browser but just in case it doesn't, you should find it on `localhost:3000`.
+First of all, run the command `npm start`. This will compile the sass into css, and will start our website. It should automatically open it in your browser but just in case it doesn't, you should find it on `localhost:3000`.
 
 I encourage anyone reading to try changing some text in the `html files`, as gulp has instant reloading, so any change you make will visible right away.
 
