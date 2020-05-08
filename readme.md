@@ -4,8 +4,12 @@ I am very aware of how bad this looks at the moment, though in my defense it is 
 
 So this is the list of all the available essays here, currently:
 
-#### [Digital Design - 7th May 2020](https://essay.qoobes.me/stekki/creation "Digital Design - 7th May 2020")
+#### [Digital Design - 7th May 2020](http://essay.qoobes.me/stekki/creation "Digital Design - 7th May 2020")
 
 And that's all there is.
 
 I am 1000% sure i forgot something like really important but yeah.
+
+it's not even ssl
+
+sad :'(
